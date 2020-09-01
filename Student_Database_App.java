@@ -3,7 +3,7 @@ public  StudentDatabaseApp
  public static void main(string[] args)
  {
  
- System.out.print("enter no of students to enroll: ");
+ System.out.print("enter no of  the students to enroll: ");
  scanner in = new scanner (System.in);
  int noofstudents=in.nextint();
  Student[]student = new student[no of students];
